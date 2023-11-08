@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'streamlit-visualization'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_05D135E69BE24A8F9BAD1739E5F6555C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E2F70EE94FE64E53B5D84D53086929F7 }}
